@@ -31,6 +31,7 @@ O repositório contém um arquivo principal com a construção da janela em Tkin
 
 ## Autor
 Professor: Max Müller
+
 Disciplina: Lógica de Programação 2° DS
 
 Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
